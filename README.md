@@ -1,34 +1,29 @@
-<h1>Smart Contract using Solidity</h1>
+# MetaCrafterModule2
+
+My Smart Contract
 
 
-**Overview:**
-
-This Solidity smart contract showcases fundamental token management functionalities, including the minting and burning of tokens.
+**Simple Overview:**
+This is a Solidity smart contract that demonstrates basic token management functionalities, including minting and burning tokens.
 
 **Description:**
-
-My Smart Contract is a Solidity-based program that facilitates the creation, minting, and burning of tokens. It serves as a simple example of token management on the Ethereum blockchain, demonstrating essential features for handling tokens.
-
+My Smart Contract is a program that create a token using Solditity programming language. This contract allows for the creation, minting, and burning of tokens. It is designed to provide a straightforward example of token management on the Ethereum blockchain.
 
 **Getting Started:**
-You can execute this program in two ways:
 
-[A] Online IDE:
+There are ways to execute this program
+1. We can make use of online  IDE like Remix (https://remix.ethereum.org/.)
+2. Installing and execting offline
+     Installing:
+     1. Clone the repository :
+          https://github.com/MokshKukreja/Metacrafters-Module-2/blob/main/Module-2.sol
+     2. Navigate to the repository
+     3. Compile and deploy the contract using your preferred Solidity development environment.
+  
 
-      Use Remix: Remix Ethereum IDE
-      
-[B] Offline Setup:
-
-      [i] Clone the repository
-      [ii] Navigate to the repository directory
-      [iii] Compile and deploy the contract using your preferred Solidity development environment.
-
-      
 **Help:**
-
-If you encounter any issues or have questions, please feel free to reach out to the author.
+If you encounter any issues or have questions, please reach out to Moksh Kukreja at mokshkukreja999@gmail.com .
 
 
 **Author:**
-
 Moksh Kukreja
